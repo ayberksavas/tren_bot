@@ -12,8 +12,8 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.action_chains import ActionChains
 
 # --- CONFIGURATION ---
-FROM_STATION = "ANKARA GAR , ANKARA"                #Must match the exact name on the website
-TO_STATION = "İSTANBUL(SÖĞÜTLÜÇEŞME) , İSTANBUL"    #Must match the exact name on the website
+FROM_STATION = "ANKARA GAR , ANKARA"                # Must match the exact name on the website
+TO_STATION = "İSTANBUL(SÖĞÜTLÜÇEŞME) , İSTANBUL"    # Must match the exact name on the website
 TRAVEL_DAY = 9               # Day of the month to pick from the calendar (e.g. 9 for the 9th)
 CHECK_EVERY_MINUTES = 15     # Base wait time
 
