@@ -85,3 +85,7 @@ tren_bot/
 | `check_results()` | Parses the results page for train times and seat counts |
 | `check_tickets()` | Full flow: open site > fill form > search > parse results |
 | `debug_find_elements()` | Dumps all page inputs/buttons (test mode only) |
+
+## Disclaimer
+
+This project is for **personal and educational purposes only**. It is not affiliated with, endorsed by, or connected to TCDD or TCDD Tasimacilik A.S. in any way. Use responsibly and in accordance with TCDD's terms of service. The author assumes no liability for any misuse of this tool.
